@@ -22,7 +22,7 @@ A static user interface clone of the Spotify web player, created using HTML and 
 1.  **Clone the repository:**
 
     ```
-    git clone https://github.com/Ankita-624/spotify-web-player-clone.git
+    https://github.com/kalikaninika07/spotify-web-player-clone.git
     ```
 
 2.  **Open `index.html` in your browser:**
@@ -39,7 +39,7 @@ A static user interface clone of the Spotify web player, created using HTML and 
 
 ## Author
 
-Ankita Gouda
+Kaninika Kali
 
 ## License
 
